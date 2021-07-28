@@ -5,8 +5,8 @@
 
 Use this script-app to quickly toggle the use of Sidecar to your iPad. You can add it to your Dock for quick access.
 
-* English users please download [for English](https://github.com/GJRobert/Sidecar-Toggler/releases/download/1.0/Sidecar.Toggler.en.zip)
-* Users of Taiwan Chinese macOS please download [for zh-TW](https://github.com/GJRobert/Sidecar-Toggler/releases/download/1.0/Sidecar.Toggler.zh-tw.zip)
+* English users please download [for English](https://github.com/GJRobert/Sidecar-Toggler/releases/download/1.0/Sidecar.Toggler.en.zip)<img src="https://raw.githubusercontent.com/GJRobert/Sidecar-Toggler/master/!resources/icon.png" alt="臺灣中文版 zh-TW version icon" width="200">
+* 臺灣中文介面 macOS 使用者**請務必**[下載臺灣中文版（有專屬圖示）](https://github.com/GJRobert/Sidecar-Toggler/releases/download/1.0/Sidecar.Toggler.zh-tw.zip)<img src="https://raw.githubusercontent.com/GJRobert/Sidecar-Toggler/master/!resources/icon%20for%20Taiwan.png" alt="臺灣中文版 zh-TW version icon" width="200">
 
 ---
 
