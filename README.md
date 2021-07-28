@@ -5,6 +5,9 @@
 
 Use this script-app to quickly toggle the use of Sidecar to your iPad. You can add it to your Dock for quick access.
 
+* English users please download [for English](https://github.com/GJRobert/Sidecar-Toggler/releases/download/1.0/Sidecar.Toggler.en.zip)
+* Users of Taiwan Chinese macOS please download [for zh-TW](https://github.com/GJRobert/Sidecar-Toggler/releases/download/1.0/Sidecar.Toggler.zh-tw.zip)
+
 ---
 
 Do remember that this is made of AppleScript and it highly depends on what strings are displayed on Sidecar pref pane and even the title of the Sidecar pane itself. **So do download the proper version for your language. I only made English and Taiwan Chinese (zh-tw), and the rest is up to you.**
