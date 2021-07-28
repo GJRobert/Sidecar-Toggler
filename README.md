@@ -12,3 +12,11 @@ Do remember that this is made of AppleScript and it highly depends on what strin
 ---
 
 Refer to here for how to localize and adapt the script for your own language: [user interface - Use AppleScript to list the names of all UI elements in a window (GUI scripting) - Stack Overflow](https://stackoverflow.com/questions/42231133/use-applescript-to-list-the-names-of-all-ui-elements-in-a-window-gui-scripting)
+
+---
+
+Credits of icons (adapted by me with [Canva](https://www.canva.com/) and [Pixlr](https://pixlr.com/tw/editor/)):
+
+* [Sidecar Icons - Download Free Vector Icons | Noun Project](https://thenounproject.com/term/sidecar/319838/)
+* [Light Bulb or Idea Flat Icon Vector.svg](https://commons.wikimedia.org/wiki/File:Light_Bulb_or_Idea_Flat_Icon_Vector.svg##) from [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) by [Videoplasty.com](https://videoplasty.com/), [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+* [Taiwan by P Thanga Vignesh from the Noun Project](https://thenounproject.com/term/taiwan/662112/)
