@@ -1,9 +1,11 @@
-# Sidecar Toggler
+# Sidecar Toggler 一鍵開關 Sidecar
 (forked from [rauls4/Toggle-Sidecar-Automator-Workflow](https://github.com/rauls4/Toggle-Sidecar-Automator-Workflow). The credit of the AppleScript code all goes to [rauls4](https://github.com/rauls4) and all I know is to just save it as an application, and done localization for my compatriots.) 
 
 ---
 
 Use this script-app to quickly toggle the use of Sidecar to your iPad. You can add it to your Dock for quick access.
+
+執行/開啟這個 app，即可自動連接 iPad Sidecar 第二螢幕，或自動中斷連線，略過多次點按。
 
 * English users please download [for English](https://github.com/GJRobert/Sidecar-Toggler/releases/download/1.0/Sidecar.Toggler.en.zip)<img src="https://raw.githubusercontent.com/GJRobert/Sidecar-Toggler/master/!resources/icon.png" alt="臺灣中文版 zh-TW version icon" width="200">
 * 臺灣中文介面 macOS 使用者**請務必**[下載臺灣中文版（有專屬圖示）](https://github.com/GJRobert/Sidecar-Toggler/releases/download/1.0/Sidecar.Toggler.zh-tw.zip)<img src="https://raw.githubusercontent.com/GJRobert/Sidecar-Toggler/master/!resources/icon%20for%20Taiwan.png" alt="臺灣中文版 zh-TW version icon" width="200">
@@ -11,6 +13,8 @@ Use this script-app to quickly toggle the use of Sidecar to your iPad. You can a
 ---
 
 Do remember that this is made of AppleScript and it highly depends on what strings are displayed on Sidecar pref pane and even the title of the Sidecar pane itself. **So do download the proper version for your language. I only made English and Taiwan Chinese (zh-tw), and the rest is up to you.**
+
+其他語言 macOS 使用者須自行修改 AppleScript 後再封裝為應用程式。
 
 ---
 
