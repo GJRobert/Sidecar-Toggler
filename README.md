@@ -9,6 +9,7 @@ Use this script-app to quickly toggle the use of Sidecar to your iPad. You can a
 
 * English users please download [for English](https://github.com/GJRobert/Sidecar-Toggler/releases/download/1.0/Sidecar.Toggler.en.zip)<img src="https://raw.githubusercontent.com/GJRobert/Sidecar-Toggler/master/!resources/icon.png" alt="臺灣中文版 zh-TW version icon" width="200">
 * 臺灣中文介面 macOS 使用者**請務必**[下載臺灣中文版（有專屬圖示）](https://github.com/GJRobert/Sidecar-Toggler/releases/download/1.0/Sidecar.Toggler.zh-tw.zip)<img src="https://raw.githubusercontent.com/GJRobert/Sidecar-Toggler/master/!resources/icon%20for%20Taiwan.png" alt="臺灣中文版 zh-TW version icon" width="200">
+  * [1.5 beta](https://github.com/GJRobert/Sidecar-Toggler/releases/tag/1.5-beta)：（zh-TW only 暫時僅先做臺灣中文版）增加自動開啟藍牙
 
 ---
 
